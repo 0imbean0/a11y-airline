@@ -1,9 +1,9 @@
-.Controller {
+.PageSection {
   margin: 2rem auto;
   width: 20rem;
 }
 
-.Controller > h1 {
+.PageSection > h1 {
   padding: 2rem 0;
   line-height: 2;
   font-size: 1.5rem;
@@ -22,7 +22,7 @@
   width: 2rem;
   height: 2rem;
 
-  background: url(../images/tooltip.svg) no-repeat 50% 50%;
+  background: url(../../../public/images/tooltip.svg) no-repeat 50% 50%;
   background-size: 1.5rem 1.5rem;
   cursor: pointer;
 }
@@ -51,11 +51,11 @@
 }
 
 .SpinButtonPlus {
-  background: url(../images/plus.svg) no-repeat 50% 50%;
+  background: url(../../../public/images/plus.svg) no-repeat 50% 50%;
 }
 
 .SpinButtonMinus {
-  background: url(../images/minus.svg) no-repeat 50% 50%;
+  background: url(../../../public/images/minus.svg) no-repeat 50% 50%;
 }
 
 .AdultCountInput {

@@ -1,0 +1,20 @@
+.List {
+  display: flex;
+  justify-content: center;
+}
+
+.ListItem {
+  float: left;
+}
+
+.ListItem a {
+  display: block;
+  color: #555;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ListItem a:hover {
+  color: #111;
+}
